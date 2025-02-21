@@ -96,19 +96,19 @@
     "Productivity"
   ],
   "dependencies": {
-    "@raycast/api": "^1.31.0",
+    "@raycast/api": "^1.92.1",
+    "@types/react-dom": "^19.0.4",
     "run-applescript": "^6.0.0"
   },
   "devDependencies": {
-    "@types/node": "~16.10.0",
-    "@types/react": "^17.0.28",
-    "@typescript-eslint/eslint-plugin": "^5.0.0",
-    "@typescript-eslint/parser": "^5.0.0",
-    "eslint": "^7.32.0",
-    "eslint-config-prettier": "^8.3.0",
+    "@types/node": "^22.13.4",
+    "@types/react": "^19.0.10",
+    "@typescript-eslint/eslint-plugin": "^8.24.1",
+    "@typescript-eslint/parser": "^8.24.1",
+    "eslint": "^8.57.1",
+    "eslint-config-prettier": "^10.0.1",
     "prettier": "^3.5.1",
-    "react-devtools": "^4.19.2",
-    "typescript": "^4.4.3"
+    "typescript": "^5.7.3"
   },
   "scripts": {
     "build": "ray build -e dist",
